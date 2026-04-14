@@ -21,7 +21,8 @@
 
 ---
 
-### 📊 Hoạt động trên GitHub
+### 📊 Hoạt động của tôi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-b%E1%BA%A3o-duy-244249403/)
 ![Duy's GitHub Activity](https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python)
 ![Learning](https://img.shields.io/badge/Learning-Machine_Learning-orange?style=for-the-badge&logo=anaconda)
 ![Status](https://img.shields.io/badge/Status-Active_Learner-green?style=for-the-badge)
