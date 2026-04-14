@@ -21,14 +21,14 @@
 
 ---
 
-### 📉 Thống kê GitHub
-<p align="left">
-  <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=TuiTenDuy06&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📊 Hoạt động trên GitHub
+![Duy's GitHub Activity](https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python)
+![Learning](https://img.shields.io/badge/Learning-Machine_Learning-orange?style=for-the-badge&logo=anaconda)
+![Status](https://img.shields.io/badge/Status-Active_Learner-green?style=for-the-badge)
 
-<p align="left">
-  <img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=TuiTenDuy06&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
+
+
 
 ---
 
