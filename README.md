@@ -16,10 +16,6 @@
 - **AI/ML:** Scikit-learn, NumPy, Pandas, (Đang học PyTorch).
 - **Phát triển phần mềm:** WinForms (C#), SQL Server.
 
----
-
-### 🚀 Dự án tiêu biểu
-- 📌 **[ML-DL Learning Journey](https://github.com/TuiTenDuy06/ML-DL-learning_journey)**: Kho lưu trữ lộ trình học thuật của mình sưu tầm từ căn bản đến nâng cao về trí tuệ nhân tạo.
 
 ---
 
