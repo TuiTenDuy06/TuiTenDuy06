@@ -2,19 +2,9 @@
 
 ### 👨‍🚀 Giới thiệu về mình
 - 🎖️ **Học viên tại Military Technical Academy tại Việt Nam.
-- 🎯 **Định hướng:** Trở thành một **AI Engineer** chuyên nghiệp.
 - 💡 Mình đang tập trung nghiên cứu Machine Learning, Deep Learning và các ứng dụng AI trong thực tế.
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-b%E1%BA%A3o-duy-244249403/)
-
----
-
-### 🛠 Kỹ năng & Công cụ
-- **Ngôn ngữ lập trình:** ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **AI/ML:** Scikit-learn, NumPy, Pandas, (Đang học PyTorch).
-- **Phát triển phần mềm:** WinForms (C#), SQL Server.
 
 
 ---
